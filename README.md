@@ -20,3 +20,13 @@ This is a chrome extension which will send connection request on LinkedIn
 7) Click on the "LinkedIn Send Connection" Extension and click on "Start Connecting" button.
 
 8) Wait for few seconds and the connection request will be send to all the people in the current page
+
+
+# SCREENSHOT OF PLUGIN
+
+![LinkedInAutoConnect](https://user-images.githubusercontent.com/85154984/221891859-a88f9886-2fb3-4b24-962e-a693be27d43f.jpeg)
+
+
+# VIDEO LINK OF PLUGIN
+
+https://drive.google.com/file/d/1ahhJ91kSpVoPhVCrfSH6HPRBK_YtlxOA/view?usp=sharing
